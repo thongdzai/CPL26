@@ -24,5 +24,11 @@ namespace Assignment1
         {
             MessageBox.Show("Xin chào");
         }
+       
+
+        private void btn_goobye_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("tạm biệt");
+        }
     }
 }
