@@ -27,7 +27,7 @@ namespace Assignment1
         }
         private void btn_Gbye(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("tạm biệt");
+            MessageBox.Show("tạm biệt !");
         }
     }
 }

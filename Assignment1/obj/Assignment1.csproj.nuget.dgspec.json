@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OJT_SP26\\Dotnet_OJT\\aaaaa\\CPL26\\Assignment1\\Assignment1.csproj": {}
+    "D:\\OJT_SP26\\Dotnet_OJT\\AA\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "D:\\OJT_SP26\\Dotnet_OJT\\aaaaa\\CPL26\\Assignment1\\Assignment1.csproj": {
+    "D:\\OJT_SP26\\Dotnet_OJT\\AA\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OJT_SP26\\Dotnet_OJT\\aaaaa\\CPL26\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "D:\\OJT_SP26\\Dotnet_OJT\\AA\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "D:\\OJT_SP26\\Dotnet_OJT\\aaaaa\\CPL26\\Assignment1\\Assignment1.csproj",
+        "projectPath": "D:\\OJT_SP26\\Dotnet_OJT\\AA\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\OJT_SP26\\Dotnet_OJT\\aaaaa\\CPL26\\Assignment1\\obj\\",
+        "outputPath": "D:\\OJT_SP26\\Dotnet_OJT\\AA\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
