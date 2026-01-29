@@ -20,6 +20,11 @@ namespace Assignment1Step2
     /// </summary>
     public partial class MainWindow : Window
     {
+        private void HelloButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("xin chào");
+        }
+
         public MainWindow()
         {
             InitializeComponent();
