@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="btnClick" Content="Click Me" Width="100" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btn_Click"/>
-        <Button x:Name="btnGbye" Content="Bye" Width="100" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btn_Gbye"/>
+        <Button x:Name="btnGbye" Content="Bye" Width="100" Height="30" Margin="0,0,300,0" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btn_Gbye"/>
     </Grid>
 </Window>
