@@ -25,6 +25,11 @@ namespace Assignment1Step2
             MessageBox.Show("xin chào");
         }
 
+        private void ByeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("tạm biệt");
+        }
+
         public MainWindow()
         {
             InitializeComponent();

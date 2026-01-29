@@ -11,6 +11,10 @@
 				Width="120"
 				Height="40"
 				Click="HelloButton_Click"/>
-	</Grid>
+        <Button Content="Tạm biệt"
+                Width="120"
+                Height="40"
+                Click="ByeButton_Click"/>
+    </Grid>
 
 </Window>
