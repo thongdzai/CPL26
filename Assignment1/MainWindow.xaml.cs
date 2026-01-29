@@ -25,5 +25,9 @@ namespace Assignment1
         {
             MessageBox.Show("xin chào");
         }
+        private void btn_Gbye(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("tạm biệt");
+        }
     }
 }
