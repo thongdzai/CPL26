@@ -28,7 +28,7 @@ namespace Assignment1
 
         private void btn_goobye_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("tạm biệt");
+            MessageBox.Show("goodbye");
         }
     }
 }
